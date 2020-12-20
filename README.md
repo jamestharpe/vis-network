@@ -22,7 +22,7 @@ Network is a visualization to display networks and networks consisting of nodes 
 
 Install via npm:
 
-    $ npm install vis-network
+    $ npm install vis-data vis-network
 
 ## Example
 
